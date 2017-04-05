@@ -35,6 +35,10 @@ namespace EduLib
 		/// <returns>The head.</returns>
 		public T Head()
 		{
+			if (this.IsEmpty())
+			{
+				throw new IndexOutOfRangeException();
+			}
 			return this.array[this.firstIndex];
 		}
 

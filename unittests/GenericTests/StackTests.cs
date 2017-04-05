@@ -10,7 +10,7 @@ namespace unittests
 		private Stack<int> stack;
 
 		[SetUp]
-		public void setup()
+		public void Setup()
 		{
 			this.stack = new Stack<int>();
 		}

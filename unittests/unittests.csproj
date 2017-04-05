@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="GenericTests\NodeTests.cs" />
     <Compile Include="GenericTests\StackTests.cs" />
+    <Compile Include="GenericTests\QueueTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EduLib\EduLib.csproj">
