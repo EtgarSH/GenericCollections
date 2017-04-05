@@ -8,7 +8,10 @@ The interface as described in Hila Kadman's website: http://blog.csit.org.il/UpL
 
 It was extremely important for me to open source this library in order to help students who are going to be tested on these dummy (Sorry, but it's true) generic structures.
 
-## Using
+## Just Using
+https://www.nuget.org/packages/EduLib/
+
+## Contributing
 Coming Soon
 
 ## Testing
